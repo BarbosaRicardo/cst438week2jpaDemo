@@ -12,10 +12,7 @@ public class TranscriptTest {
 	@Autowired
 	TranscriptRepository transcriptRepository;
 	
-	@Autowired
-	CourseRepository courseRepository;
-	
-	
+
 	@Test
 	public void test1() {
 		Course c;
